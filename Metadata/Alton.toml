@@ -11,5 +11,5 @@ rly_file = "Alton.rly"
 ssn_files = [ "Alton Initial Session.ssn",]
 ttb_files = [ "Alton 29-06-22.ttb",]
 version = "1.0.0"
-year = 2023
+year = 2022
 contributors = []
