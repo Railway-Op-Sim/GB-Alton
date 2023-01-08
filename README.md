@@ -1,4 +1,4 @@
-# Railway Operation Simulator Template Map 
+# Alton
 Alton Main Line from Pirbright Junction to Alton.
 
 ![Image of Current State of Map](Images/Alton.bmp)
