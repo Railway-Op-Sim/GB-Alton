@@ -1,0 +1,13 @@
+author = 'Oxalin'
+country_code = 'GB'
+description = "Alton Main Line from Pirbright Junction to Alton"
+display_name = 'Alton'
+doc_files = [ 'Alton.md' ]
+factual = true
+img_files = [ 'Alton.bmp' ]
+name = 'Alton'
+release_date = '2022-06-23'
+rly_file = 'Alton.rly'
+ssn_files = [ 'Alton Initial Session.ssn']
+ttb_files = [ 'Alton 29-06-22.ttb' ]
+version = '1.0.0'
