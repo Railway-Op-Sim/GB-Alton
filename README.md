@@ -18,6 +18,6 @@ Alton Main Line from Pirbright Junction to Alton.
 
 ## Data Sources
 
-- RealTimeTrains
-- OpenRailwayMap
-- Traksy
+- [RealTimeTrains](https://www.realtimetrains.co.uk/)
+- [Traksy](https://traksy.uk/live)
+- [OpenRailwayMap](https://www.openrailwaymap.org/)
