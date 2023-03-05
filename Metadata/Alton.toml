@@ -13,3 +13,4 @@ ttb_files = [ "Alton 29-06-22.ttb",]
 version = "1.0.0"
 year = 2022
 contributors = []
+signal_position = "left"
